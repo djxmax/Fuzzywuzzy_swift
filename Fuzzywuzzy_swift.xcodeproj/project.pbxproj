@@ -15,6 +15,7 @@
 		3078FD681D74AF5D0028F477 /* StringMatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3078FD671D74AF5D0028F477 /* StringMatcher.swift */; };
 		3078FD6A1D74B3FE0028F477 /* CommonSubstrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3078FD691D74B3FE0028F477 /* CommonSubstrings.swift */; };
 		308B74501D75EFE800FC5C2D /* StringProcessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308B744F1D75EFE800FC5C2D /* StringProcessor.swift */; };
+		79E9B6C024E5EDB7001BF7AF /* Fuzzywuzzy_swift.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 79E9B6BF24E5EDB7001BF7AF /* Fuzzywuzzy_swift.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +40,7 @@
 		3078FD671D74AF5D0028F477 /* StringMatcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringMatcher.swift; sourceTree = "<group>"; };
 		3078FD691D74B3FE0028F477 /* CommonSubstrings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommonSubstrings.swift; sourceTree = "<group>"; };
 		308B744F1D75EFE800FC5C2D /* StringProcessor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringProcessor.swift; sourceTree = "<group>"; };
+		79E9B6BF24E5EDB7001BF7AF /* Fuzzywuzzy_swift.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Fuzzywuzzy_swift.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		3078FD3F1D74959A0028F477 = {
 			isa = PBXGroup;
 			children = (
+				79E9B6BF24E5EDB7001BF7AF /* Fuzzywuzzy_swift.podspec */,
 				3078FD4B1D74959A0028F477 /* Fuzzywuzzy_swift */,
 				3078FD571D74959A0028F477 /* Fuzzywuzzy_swiftTests */,
 				3078FD4A1D74959A0028F477 /* Products */,
@@ -195,6 +198,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79E9B6C024E5EDB7001BF7AF /* Fuzzywuzzy_swift.podspec in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
