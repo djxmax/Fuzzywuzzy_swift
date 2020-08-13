@@ -6,7 +6,7 @@
 //  Copyright © 2016 LiXian. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import Foundation;
 
 //! Project version number for Fuzzywuzzy_swift.
 FOUNDATION_EXPORT double Fuzzywuzzy_swiftVersionNumber;
