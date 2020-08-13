@@ -6,7 +6,7 @@
 //  Copyright © 2016 LiXian. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
 public extension String {
     /// Basic Scoring Functions

@@ -6,7 +6,7 @@
 //  Copyright © 2016 LiXian. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
 class LevenshteinDistance: NSObject {
     class func distance(str1: String, str2: String) -> Int {
